@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-12T21:42:23+02:00"
+- last_updated: "2026-05-07T17:41:00+02:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -71,6 +71,37 @@
 - Paid £696 to 200 Cars Ltd (Children and Young People)
 - Paid £720 to 200 Cars Ltd (Adult Social Care and Health)
 - Paid £650 to 200 Cars Ltd (Adult Social Care and Health)
+- Paid £2,151.58 to 200 Cars Ltd (Adult Social Care and Health)
+- Paid £689.44 to 200 Cars Ltd (Adult Social Care and Health)
+- Paid £630 to 200 Cars Ltd (Adult Social Care and Health)
+- Paid £635 to 200 Cars Ltd (Adult Social Care and Health)
+- Paid £1,621.80 to 200 Cars Ltd (Adult Social Care and Health)
+- Paid £719.36 to 200 Cars Ltd (Adult Social Care and Health)
+- Paid £579.2 to 200 Cars Ltd (Adult Social Care and Health)
+- Paid £840.5 to 200 Cars Ltd (Highways)
+- Paid £13,330.32 to 200 Cars Ltd (Highways)
+- Paid £726 to 200 Cars Ltd (Highways)
+- Paid £657 to 200 Cars Ltd (Highways)
+- Paid £1,480.00 to 200 Cars Ltd (Highways)
+- Paid £1,200.00 to 200 Cars Ltd (Highways)
+- Paid £1,550.00 to 200 Cars Ltd (Highways)
+- Paid £980 to 200 Cars Ltd (Highways)
+- Paid £2,280.00 to 200 Cars Ltd (Highways)
+- Paid £2,026.00 to 200 Cars Ltd (Highways)
+- Paid £707 to 200 Cars Ltd (Highways)
+- Paid £528 to 200 Cars Ltd (Highways)
+- Paid £2,242.00 to 200 Cars Ltd (Highways)
+- Paid £1,335.00 to 200 Cars Ltd (Highways)
+- Paid £900 to 200 Cars Ltd (Highways)
+- Paid £2,308.00 to 200 Cars Ltd (Highways)
+- Paid £1,260.00 to 200 Cars Ltd (Highways)
+- Paid £882 to 200 Cars Ltd (Highways)
+- Paid £1,365.00 to 200 Cars Ltd (Highways)
+- Paid £1,632.00 to 200 Cars Ltd (Highways)
+- Paid £2,971.00 to 200 Cars Ltd (Highways)
+- Paid £3,408.00 to 200 Cars Ltd (Highways)
+- Paid £670.5 to 200 Cars Ltd (Highways)
+- Paid £10,625.30 to 200 Cars Ltd (Highways)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]

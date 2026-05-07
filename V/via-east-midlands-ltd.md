@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-12T21:29:57+02:00"
+- last_updated: "2026-05-07T17:40:55+02:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -77,6 +77,15 @@
 - Paid £116 to Via East Midlands Ltd (Environmental)
 - Paid £116 to Via East Midlands Ltd (Environmental)
 - Paid £66.09 to Via East Midlands Ltd (Corporate Management)
+- Paid £134.5 to Via East Midlands Ltd (Corporate Management)
+- Paid £134.5 to Via East Midlands Ltd (Corporate Management)
+- Paid £756 to Via East Midlands Ltd (Corporate Management)
+- Paid £1,077.86 to Via East Midlands Ltd (Leisure Services)
+- Paid £267 to Via East Midlands Ltd (Leisure Services)
+- Paid £267 to Via East Midlands Ltd (Leisure Services)
+- Paid £6,106.67 to Via East Midlands Ltd (Surplus or Deficit from Trading Undertak)
+- Paid £116 to Via East Midlands Ltd (Surplus or Deficit from Trading Undertak)
+- Paid £166.27 to Via East Midlands Ltd (Surplus or Deficit from Trading Undertak)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]
