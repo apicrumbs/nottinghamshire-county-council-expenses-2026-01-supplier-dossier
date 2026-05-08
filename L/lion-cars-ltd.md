@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-12T22:27:02+02:00"
+- last_updated: "2026-05-08T08:35:07+00:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -70,6 +70,8 @@
 - Paid £2,295.00 to Lion Cars Ltd (Children and Young People)
 - Paid £2,850.00 to Lion Cars Ltd (Children and Young People)
 - Paid £2,677.50 to Lion Cars Ltd (Children and Young People)
+- Paid £2,860.50 to Lion Cars Ltd (Children and Young People)
+- Paid £1,950.00 to Lion Cars Ltd (Adult Social Care and Health)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]

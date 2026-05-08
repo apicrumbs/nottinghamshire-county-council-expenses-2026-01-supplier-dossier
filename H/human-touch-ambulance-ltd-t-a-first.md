@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-12T22:27:01+02:00"
+- last_updated: "2026-05-08T08:35:06+00:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -71,6 +71,52 @@
 - Paid £5,894.80 to Human Touch Ambulance Ltd T/A First (Children and Young People)
 - Paid £6,320.00 to Human Touch Ambulance Ltd T/A First (Children and Young People)
 - Paid £3,830.24 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £5,100.00 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,887.21 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,934.71 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £5,600.06 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £5,372.00 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £1,002.60 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,978.00 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £8,196.76 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,731.25 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,930.15 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,884.86 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,556.00 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,374.00 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £4,037.40 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,612.00 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £4,728.90 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £4,437.00 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £6,760.80 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,360.00 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,198.00 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,818.25 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,221.40 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,710.04 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,106.35 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £4,421.10 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £4,740.00 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £2,872.68 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £4,091.80 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £797.4 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,825.00 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £2,784.60 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,724.00 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £3,068.85 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £1,774.96 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £1,331.22 to Human Touch Ambulance Ltd T/A First (Children and Young People)
+- Paid £2,914.60 to Human Touch Ambulance Ltd T/A First (Adult Social Care and Health)
+- Paid £5,406.00 to Human Touch Ambulance Ltd T/A First (Adult Social Care and Health)
+- Paid £6,163.20 to Human Touch Ambulance Ltd T/A First (Adult Social Care and Health)
+- Paid £3,206.06 to Human Touch Ambulance Ltd T/A First (Adult Social Care and Health)
+- Paid £334.2 to Human Touch Ambulance Ltd T/A First (Adult Social Care and Health)
+- Paid £5,946.60 to Human Touch Ambulance Ltd T/A First (Adult Social Care and Health)
+- Paid £3,060.33 to Human Touch Ambulance Ltd T/A First (Adult Social Care and Health)
+- Paid £4,622.40 to Human Touch Ambulance Ltd T/A First (Adult Social Care and Health)
+- Paid £6,216.90 to Human Touch Ambulance Ltd T/A First (Adult Social Care and Health)
+- Paid £4,774.65 to Human Touch Ambulance Ltd T/A First (Highways)
+- Paid £3,580.95 to Human Touch Ambulance Ltd T/A First (Highways)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]

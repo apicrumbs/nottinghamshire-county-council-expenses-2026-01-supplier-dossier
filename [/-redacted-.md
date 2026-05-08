@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-12T22:01:08+02:00"
+- last_updated: "2026-05-08T08:35:04+00:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -74,6 +74,39 @@
 - Paid £3,546.72 to [Redacted] (Adult Social Care and Health)
 - Paid £3,257.28 to [Redacted] (Adult Social Care and Health)
 - Paid £3,546.72 to [Redacted] (Adult Social Care and Health)
+- Paid £3,257.28 to [Redacted] (Adult Social Care and Health)
+- Paid £3,546.72 to [Redacted] (Adult Social Care and Health)
+- Paid £3,546.72 to [Redacted] (Adult Social Care and Health)
+- Paid £3,546.72 to [Redacted] (Adult Social Care and Health)
+- Paid £3,546.72 to [Redacted] (Adult Social Care and Health)
+- Paid £3,546.72 to [Redacted] (Adult Social Care and Health)
+- Paid £3,546.72 to [Redacted] (Adult Social Care and Health)
+- Paid £3,257.28 to [Redacted] (Adult Social Care and Health)
+- Paid £3,257.28 to [Redacted] (Adult Social Care and Health)
+- Paid £3,546.72 to [Redacted] (Adult Social Care and Health)
+- Paid £3,257.28 to [Redacted] (Adult Social Care and Health)
+- Paid £3,546.72 to [Redacted] (Adult Social Care and Health)
+- Paid £3,546.72 to [Redacted] (Adult Social Care and Health)
+- Paid £2,003.88 to [Redacted] (Adult Social Care and Health)
+- Paid £2,289.04 to [Redacted] (Adult Social Care and Health)
+- Paid £2,723.08 to [Redacted] (Adult Social Care and Health)
+- Paid £1,346.28 to [Redacted] (Adult Social Care and Health)
+- Paid £2,795.44 to [Redacted] (Adult Social Care and Health)
+- Paid £985.6 to [Redacted] (Adult Social Care and Health)
+- Paid £12,618.12 to [Redacted] (Adult Social Care and Health)
+- Paid £3,327.76 to [Redacted] (Adult Social Care and Health)
+- Paid £1,384.80 to [Redacted] (Adult Social Care and Health)
+- Paid £550 to [Redacted] (Central Service to the Public)
+- Paid £4,195.20 to [Redacted] (Planning and Development)
+- Paid £800 to [Redacted] (Planning and Development)
+- Paid £10,026.00 to [Redacted] (Planning and Development)
+- Paid £1,285.24 to [Redacted] (Planning and Development)
+- Paid £5,052.69 to [Redacted] (Planning and Development)
+- Paid £1,625.00 to [Redacted] (Planning and Development)
+- Paid £6,232.00 to [Redacted] (Planning and Development)
+- Paid £2,374.20 to [Redacted] (Planning and Development)
+- Paid £992 to [Redacted] (Corporate Management)
+- Paid £737.2 to [Redacted] (Surplus or Deficit from Trading Undertak)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]
