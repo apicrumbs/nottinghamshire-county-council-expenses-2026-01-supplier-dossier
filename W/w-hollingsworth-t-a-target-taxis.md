@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-13T15:08:02+02:00"
+- last_updated: "2026-05-08T13:35:09+00:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -70,6 +70,16 @@
 - Paid £1,242.00 to W Hollingsworth T/A Target Taxis (Highways)
 - Paid £1,512.00 to W Hollingsworth T/A Target Taxis (Highways)
 - Paid £1,476.00 to W Hollingsworth T/A Target Taxis (Highways)
+- Paid £1,116.00 to W Hollingsworth T/A Target Taxis (Highways)
+- Paid £864 to W Hollingsworth T/A Target Taxis (Highways)
+- Paid £1,440.00 to W Hollingsworth T/A Target Taxis (Highways)
+- Paid £2,562.00 to W Hollingsworth T/A Target Taxis (Highways)
+- Paid £1,200.00 to W Hollingsworth T/A Target Taxis (Highways)
+- Paid £1,920.00 to W Hollingsworth T/A Target Taxis (Highways)
+- Paid £1,701.00 to W Hollingsworth T/A Target Taxis (Highways)
+- Paid £1,440.00 to W Hollingsworth T/A Target Taxis (Highways)
+- Paid £2,685.00 to W Hollingsworth T/A Target Taxis (Highways)
+- Paid £2,640.00 to W Hollingsworth T/A Target Taxis (Highways)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]

@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-13T15:07:58+02:00"
+- last_updated: "2026-05-08T13:35:06+00:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -70,6 +70,57 @@
 - Paid £2,868.18 to Arrow Specialised Transport Ltd (Children and Young People)
 - Paid £2,148.72 to Arrow Specialised Transport Ltd (Children and Young People)
 - Paid £2,797.90 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,143.00 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,206.25 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,777.75 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £4,425.00 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £4,499.25 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £1,666.95 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,937.50 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,878.55 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,725.55 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £2,857.35 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £4,505.85 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £4,016.85 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £2,596.05 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,279.15 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,052.35 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £2,983.50 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £2,504.55 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £2,365.05 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,239.85 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,479.25 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,817.35 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,224.55 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,442.50 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,221.85 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,603.15 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £5,221.72 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £5,254.62 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £4,237.38 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £4,717.50 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,702.00 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £5,632.50 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £2,996.25 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £1,169.55 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £4,338.75 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £2,699.25 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £4,005.00 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,225.00 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £4,440.00 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £4,270.00 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,161.25 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £2,385.00 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £4,092.30 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £2,925.45 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £5,632.50 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £5,688.75 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £3,772.50 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £7,506.60 to Arrow Specialised Transport Ltd (Children and Young People)
+- Paid £2,018.56 to Arrow Specialised Transport Ltd (Adult Social Care and Health)
+- Paid £940 to Arrow Specialised Transport Ltd (Adult Social Care and Health)
+- Paid £2,757.00 to Arrow Specialised Transport Ltd (Adult Social Care and Health)
+- Paid £2,185.95 to Arrow Specialised Transport Ltd (Adult Social Care and Health)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]
