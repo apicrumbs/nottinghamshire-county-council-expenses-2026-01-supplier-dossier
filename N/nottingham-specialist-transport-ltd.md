@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-13T14:26:32+02:00"
+- last_updated: "2026-05-08T11:35:16+00:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -71,6 +71,30 @@
 - Paid £5,692.50 to Nottingham Specialist Transport Ltd (Children and Young People)
 - Paid £4,642.50 to Nottingham Specialist Transport Ltd (Children and Young People)
 - Paid £3,142.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,903.00 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,265.34 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £3,754.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £3,142.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,692.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £3,292.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,842.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,992.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £3,592.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,194.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,971.87 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,815.05 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,992.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,992.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,842.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,992.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,992.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,842.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £2,692.50 to Nottingham Specialist Transport Ltd (Children and Young People)
+- Paid £4,745.84 to Nottingham Specialist Transport Ltd (Adult Social Care and Health)
+- Paid £2,766.24 to Nottingham Specialist Transport Ltd (Adult Social Care and Health)
+- Paid £1,383.12 to Nottingham Specialist Transport Ltd (Highways)
+- Paid £2,606.10 to Nottingham Specialist Transport Ltd (Highways)
+- Paid £2,692.50 to Nottingham Specialist Transport Ltd (Highways)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]
