@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-16T11:58:00+02:00"
+- last_updated: "2026-05-08T15:35:09+00:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -71,6 +71,39 @@
 - Paid £960 to A1 Private Hire Ltd (Children and Young People)
 - Paid £720 to A1 Private Hire Ltd (Children and Young People)
 - Paid £885 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,656.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £522 to A1 Private Hire Ltd (Children and Young People)
+- Paid £666 to A1 Private Hire Ltd (Children and Young People)
+- Paid £666 to A1 Private Hire Ltd (Children and Young People)
+- Paid £540 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,695.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,770.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,110.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £952 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,605.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £801 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,128.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,485.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,545.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £2,085.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,652.40 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,591.20 to A1 Private Hire Ltd (Children and Young People)
+- Paid £2,126.70 to A1 Private Hire Ltd (Children and Young People)
+- Paid £2,010.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,710.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £2,385.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £2,685.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £2,235.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,744.20 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,455.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,110.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £1,557.00 to A1 Private Hire Ltd (Children and Young People)
+- Paid £2,995.50 to A1 Private Hire Ltd (Adult Social Care and Health)
+- Paid £1,536.90 to A1 Private Hire Ltd (Adult Social Care and Health)
+- Paid £1,364.00 to A1 Private Hire Ltd (Adult Social Care and Health)
+- Paid £944 to A1 Private Hire Ltd (Adult Social Care and Health)
+- Paid £1,622.00 to A1 Private Hire Ltd (Adult Social Care and Health)
+- Paid £2,289.90 to A1 Private Hire Ltd (Unallocated)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]

@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-16T11:57:55+02:00"
+- last_updated: "2026-05-08T15:35:07+00:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -70,6 +70,50 @@
 - Paid £5,685.00 to Stagecoach Services Ltd (Children and Young People)
 - Paid £4,875.00 to Stagecoach Services Ltd (Children and Young People)
 - Paid £4,785.00 to Stagecoach Services Ltd (Children and Young People)
+- Paid £2,450.00 to Stagecoach Services Ltd (Children and Young People)
+- Paid £7,419.50 to Stagecoach Services Ltd (Children and Young People)
+- Paid £8,242.50 to Stagecoach Services Ltd (Children and Young People)
+- Paid £4,725.00 to Stagecoach Services Ltd (Children and Young People)
+- Paid £5,235.00 to Stagecoach Services Ltd (Children and Young People)
+- Paid £314,775.00 to Stagecoach Services Ltd (Highways)
+- Paid £7,401.52 to Stagecoach Services Ltd (Highways)
+- Paid £33,198.69 to Stagecoach Services Ltd (Highways)
+- Paid £19,875.00 to Stagecoach Services Ltd (Highways)
+- Paid £19,875.00 to Stagecoach Services Ltd (Highways)
+- Paid £20,625.00 to Stagecoach Services Ltd (Highways)
+- Paid £10,700.00 to Stagecoach Services Ltd (Highways)
+- Paid £17,200.00 to Stagecoach Services Ltd (Highways)
+- Paid £6,160.00 to Stagecoach Services Ltd (Highways)
+- Paid £12,725.00 to Stagecoach Services Ltd (Highways)
+- Paid £49,425.00 to Stagecoach Services Ltd (Highways)
+- Paid £23,841.75 to Stagecoach Services Ltd (Highways)
+- Paid £14,725.00 to Stagecoach Services Ltd (Highways)
+- Paid £28,475.00 to Stagecoach Services Ltd (Highways)
+- Paid £1,785.00 to Stagecoach Services Ltd (Highways)
+- Paid £7,718.00 to Stagecoach Services Ltd (Highways)
+- Paid £1,975.00 to Stagecoach Services Ltd (Highways)
+- Paid £735 to Stagecoach Services Ltd (Highways)
+- Paid £940 to Stagecoach Services Ltd (Highways)
+- Paid £2,050.00 to Stagecoach Services Ltd (Highways)
+- Paid £850 to Stagecoach Services Ltd (Highways)
+- Paid £1,443.75 to Stagecoach Services Ltd (Highways)
+- Paid £3,475.00 to Stagecoach Services Ltd (Highways)
+- Paid £5,675.00 to Stagecoach Services Ltd (Highways)
+- Paid £1,276.00 to Stagecoach Services Ltd (Highways)
+- Paid £1,028.00 to Stagecoach Services Ltd (Highways)
+- Paid £24,575.00 to Stagecoach Services Ltd (Highways)
+- Paid £950 to Stagecoach Services Ltd (Highways)
+- Paid £11,475.00 to Stagecoach Services Ltd (Highways)
+- Paid £14,675.00 to Stagecoach Services Ltd (Highways)
+- Paid £2,079.00 to Stagecoach Services Ltd (Highways)
+- Paid £1,375.00 to Stagecoach Services Ltd (Highways)
+- Paid £19,285.60 to Stagecoach Services Ltd (Highways)
+- Paid £15,625.00 to Stagecoach Services Ltd (Highways)
+- Paid £26,305.50 to Stagecoach Services Ltd (Highways)
+- Paid £19,232.50 to Stagecoach Services Ltd (Highways)
+- Paid £7,625.00 to Stagecoach Services Ltd (Highways)
+- Paid £11,450.00 to Stagecoach Services Ltd (Highways)
+- Paid £6,818.00 to Stagecoach Services Ltd (Highways)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]
