@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-13T22:56:57+02:00"
+- last_updated: "2026-05-08T14:35:07+00:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -71,6 +71,21 @@
 - Paid £3,538.50 to BN Gibson Ltd (Children and Young People)
 - Paid £3,758.25 to BN Gibson Ltd (Children and Young People)
 - Paid £4,735.05 to BN Gibson Ltd (Children and Young People)
+- Paid £3,450.00 to BN Gibson Ltd (Children and Young People)
+- Paid £4,725.00 to BN Gibson Ltd (Children and Young People)
+- Paid £2,912.00 to BN Gibson Ltd (Children and Young People)
+- Paid £3,900.00 to BN Gibson Ltd (Children and Young People)
+- Paid £3,302.60 to BN Gibson Ltd (Children and Young People)
+- Paid £3,507.70 to BN Gibson Ltd (Children and Young People)
+- Paid £4,341.12 to BN Gibson Ltd (Children and Young People)
+- Paid £3,600.00 to BN Gibson Ltd (Children and Young People)
+- Paid £3,540.00 to BN Gibson Ltd (Children and Young People)
+- Paid £3,375.00 to BN Gibson Ltd (Children and Young People)
+- Paid £3,300.00 to BN Gibson Ltd (Children and Young People)
+- Paid £3,600.00 to BN Gibson Ltd (Children and Young People)
+- Paid £2,925.00 to BN Gibson Ltd (Children and Young People)
+- Paid £5,687.01 to BN Gibson Ltd (Adult Social Care and Health)
+- Paid £912.23 to BN Gibson Ltd (Highways)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]
