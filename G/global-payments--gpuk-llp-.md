@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-17T12:29:26+02:00"
+- last_updated: "2026-05-11T09:35:10+00:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -78,6 +78,9 @@
 - Paid £0.58 to Global Payments (GPUK LLP) (Environmental)
 - Paid £0.92 to Global Payments (GPUK LLP) (Environmental)
 - Paid £1.74 to Global Payments (GPUK LLP) (Corporate Management)
+- Paid £1,076.14 to Global Payments (GPUK LLP) (Corporate Management)
+- Paid £502.73 to Global Payments (GPUK LLP) (Corporate Management)
+- Paid £1.85 to Global Payments (GPUK LLP) (Public Health)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]
