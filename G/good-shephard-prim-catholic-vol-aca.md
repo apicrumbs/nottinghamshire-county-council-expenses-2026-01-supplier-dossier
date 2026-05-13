@@ -1,21 +1,21 @@
 ﻿---
-- title: "Nottinghamshire County Council - Expenses - January 2026 - Supplier Dossier: Gamston St Peters C Of E Primary S"
-- entity_id: "Gamston St Peters C Of E Primary S"
+- title: "Nottinghamshire County Council - Expenses - January 2026 - Supplier Dossier: Good Shephard Prim Catholic Vol Aca"
+- entity_id: "Good Shephard Prim Catholic Vol Aca"
 - category: "Transparency"
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-05-13T11:35:05+00:00"
+- last_updated: "2026-05-13T11:35:07+00:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
 
 # TRANSPARENCY REGISTRY
-## TRAIL: GAMSTON ST PETERS C OF E PRIMARY S
+## TRAIL: GOOD SHEPHARD PRIM CATHOLIC VOL ACA
 ### GET /finance/supplier/financial-pulse
-- **Total Monthly Spend**: £8,378.37
+- **Total Monthly Spend**: £30,548.83
 - **Invoice Frequency**: 1 payments processed
-- **Mean Transaction Value**: £8,378.37
+- **Mean Transaction Value**: £30,548.83
 ---
 - [CRUMB: transparency/expensessupplierfinancialpulse]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]
@@ -24,7 +24,7 @@
 - [SOURCE URL: https://www.nottinghamshire.gov.uk/media/ocxg24lv/nottscountycouncilspendingreportjan2026.csv ]
 
 ### GET /finance/supplier/fiscal-footprint-analysis
-- **Cumulative Spend**: £8,378.37
+- **Cumulative Spend**: £30,548.83
 - **Transaction Volume**: 1 Invoices
 - **Lead Department**: Children and Young People
 - **Departmental Reach**: Active in 1 distinct cost centres.
@@ -40,7 +40,7 @@
 
 | Intensity | Department | Revenue | Weight |
 | :--- | :--- | :--- | :--- |
-| `*****` | Children and Young People | £8,378 | 100.0% |
+| `*****` | Children and Young People | £30,549 | 100.0% |
 ---
 - [CRUMB: transparency/expensessuppliersectormix]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]
@@ -49,7 +49,7 @@
 - [SOURCE URL: https://www.nottinghamshire.gov.uk/media/ocxg24lv/nottscountycouncilspendingreportjan2026.csv ]
 
 ### GET /finance/supplier/expenses-ledger
-- Paid £8,378.37 to Gamston St Peters C Of E Primary S (Children and Young People)
+- Paid £30,548.83 to Good Shephard Prim Catholic Vol Aca (Children and Young People)
 ---
 - [CRUMB: transparency/expensessupplierledger]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]
@@ -62,7 +62,7 @@
 
 | Date | Volume | Total Paid | Intensity |
 | :--- | :--- | :--- | :--- |
-|  `28/01/2026` | 1 | £8,378.37 | `*****` |
+|  `28/01/2026` | 1 | £30,548.83 | `*****` |
 ---
 - [CRUMB: transparency/expensessupplierdailybreakdown]
 - [SOURCE: nottscountycouncilspendingreportjan2026.csv ]
